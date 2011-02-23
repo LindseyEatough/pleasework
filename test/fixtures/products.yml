@@ -11,3 +11,10 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+    title:  Cheesesteak
+    description: 
+        Philadelphias Finest
+    price: 9.50
+    image_url: phillycheesesteak.jpg
